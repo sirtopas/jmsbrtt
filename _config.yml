@@ -28,7 +28,7 @@ twitter_username: encryption
 github_username:  sirtopas
 
 # Build settings
-remote_theme: poole/hyde
+remote_theme: minima
 plugins:
   - jekyll-feed
 
