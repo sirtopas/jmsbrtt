@@ -33,11 +33,11 @@ Okay, enough overview let's see some code.
 
 I'm using .NET5 and Visual Studio for benchmarking so I'll create a new Console project to get us started:
 
-![VS New Project](/assets/benchmark-new-project.png)
+![VS New Project](/jmsbrtt/assets/benchmark-new-project.png)
 
 After we've been through the wizard, we're left with a nice shiny Console app ready for benchmarking. Next, we'll add some NuGet packages to help: **BenchmarkDotNet** and **Newtonsoft.Json**:
 
-![VS NuGet](/assets/benchmark-nuget.png)
+![VS NuGet](/jmsbrtt/assets/benchmark-nuget.png)
 
 With those installed, we're ready to create a benchmark! 
 
